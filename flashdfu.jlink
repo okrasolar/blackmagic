@@ -1,0 +1,4 @@
+r
+loadbin ./src/blackmagic_dfu.bin 0x08000000
+r
+exit
